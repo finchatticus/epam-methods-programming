@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<%@page contentType="text/html" pageEncoding="UTF-8" %>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>JSP Timing</title>
 </head>
 <body>
     <form action="FirstServlet">
